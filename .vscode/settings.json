@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/9643fc64-35e4-4ea0-8efe-af4e24065dd9/AppServices/subscriptions/9643fc64-35e4-4ea0-8efe-af4e24065dd9/resourceGroups/ThoughCircleRG/providers/Microsoft.Web/sites/ThoughtCircle",
+    "appService.deploySubpath": "."
+}
